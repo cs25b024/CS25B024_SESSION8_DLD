@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_railway_controller_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_railway_controller" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="99,990 ps"></ZoomStartTime>
+      <ZoomEndTime time="100,003 ps"></ZoomEndTime>
+      <Cursor1Time time="100,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject type="logic" fp_name="/tb_railway_controller/E">
+      <obj_property name="ElementShortName">E</obj_property>
+      <obj_property name="ObjectShortName">E</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W">
+      <obj_property name="ElementShortName">W</obj_property>
+      <obj_property name="ObjectShortName">W</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P1_BUSY">
+      <obj_property name="ElementShortName">P1_BUSY</obj_property>
+      <obj_property name="ObjectShortName">P1_BUSY</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P2_BUSY">
+      <obj_property name="ElementShortName">P2_BUSY</obj_property>
+      <obj_property name="ObjectShortName">P2_BUSY</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P3_BUSY">
+      <obj_property name="ElementShortName">P3_BUSY</obj_property>
+      <obj_property name="ObjectShortName">P3_BUSY</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/PRI">
+      <obj_property name="ElementShortName">PRI</obj_property>
+      <obj_property name="ObjectShortName">PRI</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/E_GREEN">
+      <obj_property name="ElementShortName">E_GREEN</obj_property>
+      <obj_property name="ObjectShortName">E_GREEN</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/E_RED">
+      <obj_property name="ElementShortName">E_RED</obj_property>
+      <obj_property name="ObjectShortName">E_RED</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W_GREEN">
+      <obj_property name="ElementShortName">W_GREEN</obj_property>
+      <obj_property name="ObjectShortName">W_GREEN</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W_RED">
+      <obj_property name="ElementShortName">W_RED</obj_property>
+      <obj_property name="ObjectShortName">W_RED</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/E_P1">
+      <obj_property name="ElementShortName">E_P1</obj_property>
+      <obj_property name="ObjectShortName">E_P1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/E_P2">
+      <obj_property name="ElementShortName">E_P2</obj_property>
+      <obj_property name="ObjectShortName">E_P2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/E_P3">
+      <obj_property name="ElementShortName">E_P3</obj_property>
+      <obj_property name="ObjectShortName">E_P3</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W_P1">
+      <obj_property name="ElementShortName">W_P1</obj_property>
+      <obj_property name="ObjectShortName">W_P1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W_P2">
+      <obj_property name="ElementShortName">W_P2</obj_property>
+      <obj_property name="ObjectShortName">W_P2</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/W_P3">
+      <obj_property name="ElementShortName">W_P3</obj_property>
+      <obj_property name="ObjectShortName">W_P3</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P1_FREE">
+      <obj_property name="ElementShortName">P1_FREE</obj_property>
+      <obj_property name="ObjectShortName">P1_FREE</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P2_FREE">
+      <obj_property name="ElementShortName">P2_FREE</obj_property>
+      <obj_property name="ObjectShortName">P2_FREE</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P3_FREE">
+      <obj_property name="ElementShortName">P3_FREE</obj_property>
+      <obj_property name="ObjectShortName">P3_FREE</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P1_BUSY_LED">
+      <obj_property name="ElementShortName">P1_BUSY_LED</obj_property>
+      <obj_property name="ObjectShortName">P1_BUSY_LED</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P2_BUSY_LED">
+      <obj_property name="ElementShortName">P2_BUSY_LED</obj_property>
+      <obj_property name="ObjectShortName">P2_BUSY_LED</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_railway_controller/P3_BUSY_LED">
+      <obj_property name="ElementShortName">P3_BUSY_LED</obj_property>
+      <obj_property name="ObjectShortName">P3_BUSY_LED</obj_property>
+   </wvobject>
+</wave_config>
